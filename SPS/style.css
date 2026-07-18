@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    background-color: rgb(34, 31, 54);
+    color: aliceblue;
+    height: 40px;
+    text-align: center;
+}
